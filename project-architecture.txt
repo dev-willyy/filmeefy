@@ -1,0 +1,11 @@
+# Filmeefy | Movie Application
+1. Functional Requirements
+
+2. Tech Stack
+a. Client (React | Redux | Typescript | Tailwind-CSS)
+b. Server (PHP-Laravel)
+c. Database (MySQL)
+
+3. Project Architechture, Structure & Logic
+
+4.  Workflow
